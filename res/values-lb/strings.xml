@@ -51,8 +51,5 @@
   <string name="debug_dump_email_subject">Kontakt-DB ugehaangen</string>
   <!-- Debug tool - email body [CHAR LIMIT=NONE] -->
   <string name="debug_dump_email_body">Ugehaangen ass meng Kontaktdatebank mat all menge Kontaktinformatiounen. Mat Virsiicht behandelen.</string>
-  <string name="group_title_co_workers">"Aarbechtskollegen"</string>
-  <string name="group_title_family">"Famill"</string>
-  <string name="group_title_friends">"Frënn"</string>
   <!--preset contact info: name,number,email-->
 </resources>
