@@ -15,8 +15,9 @@
      limitations under the License.
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="group_title_co_workers">"Aarbechtskollegen"</string>
-  <string name="group_title_family">"Famill"</string>
-  <string name="group_title_friends">"Frënn"</string>
+  <string name="group_title_co_workers">"Коллеги"</string>
+  <string name="group_title_family">"Семья"</string>
+  <string name="group_title_friends">"Друзья"</string>
   <!--preset contact info: name,number,email-->
+  <string name="preset_contact_detail_info_name"> Автоответчик</string>
 </resources>
