@@ -15,9 +15,5 @@
      limitations under the License.
 -->
 <resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-  <string name="group_title_co_workers">"همکاران"</string>
-  <string name="group_title_family">"خانواده"</string>
-  <string name="group_title_friends">"دوستان"</string>
   <!--preset contact info: name,number,email-->
-  <string name="preset_contact_detail_info_name">Segr.Telefonica</string>
 </resources>
